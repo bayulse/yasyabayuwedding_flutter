@@ -1,6 +1,6 @@
 # yasyabayuwedding
 
-A new Flutter project.
+https://yasyabayuwedding-flutter.web.app/
 
 ## Getting Started
 
